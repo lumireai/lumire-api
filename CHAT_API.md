@@ -323,6 +323,6 @@ Chat API endpoints are subject to the configured rate limits on your backend ins
 
 ## Resources
 
-- **Website:** [https://lumire-7e2k.onrender.com](https://lumire-7e2k.onrender.com)
+- **Website:** [https://lumire.xyz](https://lumire.xyz)
 - **GitHub:** [https://github.com/lumireai/lumire-api](https://github.com/lumireai/lumire-api)
 - **Twitter:** [https://x.com/lumireai](https://x.com/lumireai)

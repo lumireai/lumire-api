@@ -487,7 +487,7 @@ Simply provide text in the desired language!
 
 ## Resources
 
-- **Website:** [https://lumire-7e2k.onrender.com](https://lumire-7e2k.onrender.com)
+- **Website:** [https://lumire.xyz](https://lumire.xyz)
 - **GitHub:** [https://github.com/lumireai/lumire-api](https://github.com/lumireai/lumire-api)
 - **Twitter:** [https://x.com/lumireai](https://x.com/lumireai)
 - **ElevenLabs:** [https://elevenlabs.io](https://elevenlabs.io)

@@ -442,6 +442,6 @@ Code Generation API uses more tokens than chat, so be mindful of usage.
 
 ## Resources
 
-- **Website:** [https://lumire-7e2k.onrender.com](https://lumire-7e2k.onrender.com)
+- **Website:** [https://lumire.xyz](https://lumire.xyz)
 - **GitHub:** [https://github.com/lumireai/lumire-api](https://github.com/lumireai/lumire-api)
 - **Twitter:** [https://x.com/lumireai](https://x.com/lumireai)

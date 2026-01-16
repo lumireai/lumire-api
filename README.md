@@ -194,7 +194,7 @@ Coming soon! We're working on official SDKs for:
 
 ## Resources
 
-- **Website:** [https://lumire-7e2k.onrender.com](https://lumire-7e2k.onrender.com)
+- **Website:** [https://lumire.xyz](https://lumire.xyz)
 - **GitHub:** [https://github.com/lumireai/lumire-api](https://github.com/lumireai/lumire-api)
 - **Twitter:** [https://x.com/lumireai](https://x.com/lumireai)
 - **Health Check:** [https://lumire-7e2k.onrender.com/health](https://lumire-7e2k.onrender.com/health)
