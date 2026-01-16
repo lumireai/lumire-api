@@ -199,14 +199,6 @@ Coming soon! We're working on official SDKs for:
 - **Twitter:** [https://x.com/lumireai](https://x.com/lumireai)
 - **Health Check:** [https://lumire-7e2k.onrender.com/health](https://lumire-7e2k.onrender.com/health)
 
-## Support
-
-For support, questions, or feature requests:
-
-- Open an issue on [GitHub](https://github.com/lumireai/lumire-api)
-- Follow us on [Twitter](https://x.com/lumireai)
-- Visit our website at [lumire-7e2k.onrender.com](https://lumire-7e2k.onrender.com)
-
 ## Changelog
 
 ### v1.0.0 (2024-11-13)
@@ -215,3 +207,4 @@ For support, questions, or feature requests:
 - Code Generation API endpoint
 - Text-to-Speech API endpoint
 - CORS configuration for production
+
